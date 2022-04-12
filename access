@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "msg": "",
+  "amount": "1",
+  "data": {
+    "0": "108",
+    "1": "666",
+    "2": "1",
+    "3": "/api/sale/validate-code?userId=",
+    "4": "code=",
+    "5": "/pvz/clients/",
+    "6": "+",
+    "id": "108",
+    "clientID": "666",
+    "amount": "1",
+    "data": "/api/sale/validate-code?userId=",
+    "datecode": "code=",
+    "pvz": "/pvz/clients/",
+    "comment": "+"
+  }
+}
